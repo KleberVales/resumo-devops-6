@@ -42,3 +42,5 @@ outputArtifacts:
     location: target/myapp.jar
 
 ```
+
+## 📦 OCI Container Registry
