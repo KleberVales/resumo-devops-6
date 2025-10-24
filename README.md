@@ -114,6 +114,9 @@ O que é:
 - Arquivos, backups, logs, dados brutos
 - Não é específico para DevOps
 
+Uso:
+
+
 
 
 
