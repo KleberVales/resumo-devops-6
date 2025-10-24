@@ -106,6 +106,9 @@ Relacionamento:
 - Origem do código para builds
 - Dispara pipelines automáticos
 
+## 🗄️ OCI Object Storage
+
+
 
 
 
