@@ -103,6 +103,9 @@ git push origin main
 
 Relacionamento:
 
+- Origem do código para builds
+- Dispara pipelines automáticos
+
 
 
 
