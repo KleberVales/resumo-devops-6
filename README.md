@@ -90,6 +90,10 @@ Relacionamento:
 
 O que é:
 
+- Repositório Git privado
+- Hospeda código-fonte
+- Integrado com OCI DevOps
+
 
 
 
