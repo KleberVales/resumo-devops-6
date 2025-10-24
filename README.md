@@ -108,6 +108,9 @@ Relacionamento:
 
 ## 🗄️ OCI Object Storage
 
+O que é:
+
+
 
 
 
