@@ -83,6 +83,9 @@ helm chart push syd.ocir.io/tenancy/repo/mychart:1.0.0
 
 Relacionamento:
 
+- Complementa o Container Registry
+- Mais flexível para diversos artefatos
+
 
 
 
