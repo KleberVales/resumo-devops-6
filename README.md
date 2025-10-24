@@ -116,6 +116,10 @@ O que é:
 
 Uso:
 
+```bash
+oci os object put -bn my-bucket --file app.jar
+```
+
 
 
 
