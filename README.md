@@ -63,4 +63,7 @@ Relacionamento:
 - Fonte de imagens para OKE, Container Instances
 - Destino de builds do OCI DevOps
 
+## 📁 OCI Artifact Registry
+
+
 
