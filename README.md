@@ -11,3 +11,5 @@ Ele define as instruções do processo de build, ou seja, descreve como o códig
 ### 📘 Em outras palavras:
 
 É o equivalente ao buildspec.yml do AWS CodeBuild ou ao arquivo Jenkinsfile do Jenkins.
+
+### 🧩 Estrutura típica do build_spec.yaml:
