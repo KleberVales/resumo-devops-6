@@ -7,3 +7,5 @@ O arquivo build_spec.yaml é um arquivo de configuração usado no serviço OCI 
 ### 💡 Função principal:
 
 Ele define as instruções do processo de build, ou seja, descreve como o código deve ser compilado, testado e empacotado durante a execução do pipeline de build gerenciado pela OCI.
+
+### 📘 Em outras palavras:
