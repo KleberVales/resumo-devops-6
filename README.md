@@ -86,6 +86,9 @@ Relacionamento:
 - Complementa o Container Registry
 - Mais flexível para diversos artefatos
 
+## 💻 OCI Code Repository
+
+
 
 
 
