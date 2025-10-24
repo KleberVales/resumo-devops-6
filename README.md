@@ -46,3 +46,7 @@ outputArtifacts:
 ## 📦 OCI Container Registry
 
 O que é:
+
+- Registro de containers Docker
+- Armazena imagens Docker prontas para execução
+- Similar ao Docker Hub, mas privado na OCI
