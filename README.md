@@ -110,6 +110,10 @@ Relacionamento:
 
 O que é:
 
+- Armazenamento de objetos ilimitado
+- Arquivos, backups, logs, dados brutos
+- Não é específico para DevOps
+
 
 
 
