@@ -13,3 +13,32 @@ Ele define as instruções do processo de build, ou seja, descreve como o códig
 É o equivalente ao buildspec.yml do AWS CodeBuild ou ao arquivo Jenkinsfile do Jenkins.
 
 ### 🧩 Estrutura típica do build_spec.yaml:
+
+```yaml
+
+version: 0.1
+component: build
+timeoutInSeconds: 600
+shell: bash
+
+env:
+  variables:
+    BUILD_ENV: "prod"
+
+steps:
+  - type: Command
+    name: "Install dependencies"
+    command: |
+      mvn clean install
+
+  - type: Command
+    name: "Run tests"
+    command: |
+      mvn test
+
+outputArtifacts:
+  - name: build_artifact
+    type: BINARY
+    location: target/myapp.jar
+
+```
