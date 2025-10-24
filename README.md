@@ -101,6 +101,8 @@ git clone https://devops.scmservice.sa-saopaulo-1.oci.oraclecloud.com/tenancy/re
 git push origin main
 ```
 
+Relacionamento:
+
 
 
 
