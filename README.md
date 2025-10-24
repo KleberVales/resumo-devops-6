@@ -96,6 +96,11 @@ O que é:
 
 Uso:
 
+```bash
+git clone https://devops.scmservice.sa-saopaulo-1.oci.oraclecloud.com/tenancy/repo.git
+git push origin main
+```
+
 
 
 
