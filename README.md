@@ -81,6 +81,9 @@ helm push mychart-1.0.0.tgz oci://syd.ocir.io/tenancy/helm-repo
 helm chart push syd.ocir.io/tenancy/repo/mychart:1.0.0
 ```
 
+Relacionamento:
+
+
 
 
 
