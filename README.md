@@ -58,3 +58,6 @@ docker push syd.ocir.io/tenancy/myapp:v1.0
 docker pull syd.ocir.io/tenancy/myapp:v1.0
 ```
 
+Relacionamento:
+
+
